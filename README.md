@@ -7,7 +7,7 @@ My name is Jun Kagaya, I work in Payroll, and I used to be a tour guide and have
 I've also taken on the challenge of spreading knowledge about IT by creating an series of easy to follow lessons to get you guys engaged in creating your first (maybe) website.  
 
 We're going to create a website that looks like this
-# Screenshot of a useful website with CSS and javascript>
+![Final Website](https://github.com/gieoon/MakeMyWebsite/blob/master/FinalWebsite.png "Final Website")
 
 In making this site, we're going to cover the basics of web development and get you the skills needed to make a basic webpage.
 
@@ -46,7 +46,7 @@ Every single webpage is made of HTML, or [__Hyper Text Markup Language__](https:
 You may have heard of Developers talking about __React__ or __Angular__, these are frameworks used to make web development easier, but they have their own build processes to eventually export the code into HTML to be rendered onto your browser.
 
 Websites can be complex, for example this is what the HTML page source of a Google Search looks like.
-![Page Source](https://github.com/gieoon/MakeMyWebsite/blob/master/FinalWebsite.png "Page Source")
+![Page Source](https://github.com/gieoon/MakeMyWebsite/blob/master/PageSource.png "Page Source")
 
 Below is the skeleton of a basic HTML page.
 ```
