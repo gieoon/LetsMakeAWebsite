@@ -7,9 +7,11 @@ My name is Jun Kagaya, I work in Payroll, and I used to be a tour guide and have
 I've also taken on the challenge of spreading knowledge about IT by creating an series of easy to follow lessons to get you guys engaged in creating your first (maybe) website.  
 
 We're going to create a website that looks like this
-<screenshot of a useful website with CSS and javascript>
+# Screenshot of a useful website with CSS and javascript>
 
 In making this site, we're going to cover the basics of web development and get you the skills needed to make a basic webpage.
+
+This course aims to:
 - Make your Developers proud
 - More intimately understand the business you are involved in
 - Be able to manage project constraints.
@@ -120,6 +122,11 @@ ___
 
 Now when you run the page you should see an alert that appears at the top of the page.
 
+## API calls
 
+Sometimes other website owners let you call their content, but instead of going to their website and clicking on the content directly, they expose an API endpoint for you to call.
+This means that you tell your javascript code to go to a certain address, `https://graph.facebook.com/friends/`, so instead of getting the data through your browser, you can get it through code.
+
+## Your Completed Website
 
 
