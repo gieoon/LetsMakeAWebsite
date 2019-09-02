@@ -46,7 +46,7 @@ Every single webpage is made of HTML, or [__Hyper Text Markup Language__](https:
 You may have heard of Developers talking about __React__ or __Angular__, these are frameworks used to make web development easier, but they have their own build processes to eventually export the code into HTML to be rendered onto your browser.
 
 Websites can be complex, for example this is what the HTML page source of a Google Search looks like.
-![Page Source](https://github.com/gieoon/MakeMyWebsite/blob/master/PageSource.png "Page Source")
+![Page Source](https://github.com/gieoon/MakeMyWebsite/blob/master/FinalWebsite.png "Page Source")
 
 Below is the skeleton of a basic HTML page.
 ```
