@@ -7,7 +7,6 @@ My name is Jun Kagaya, I work in Payroll, and I used to be a tour guide and have
 I've also taken on the challenge of spreading knowledge about IT by creating an series of easy to follow lessons to get you guys engaged in creating your first (maybe) website.  
 
 We're going to create a website that looks like this
-![Final Website](https://github.com/gieoon/MakeMyWebsite/blob/master/FinalWebsite.png "Final Website")
 ![Final Website](https://gieoon.github.io/LetsMakeAWebsite/FinalWebsite.png "Final Website")
 
 In making this site, we're going to cover the basics of web development and get you the skills needed to make a basic webpage.
@@ -47,7 +46,7 @@ Every single webpage is made of HTML, or [__Hyper Text Markup Language__](https:
 You may have heard of Developers talking about __React__ or __Angular__, these are frameworks used to make web development easier, but they have their own build processes to eventually export the code into HTML to be rendered onto your browser.
 
 Websites can be complex, for example this is what the HTML page source of a Google Search looks like.
-![Page Source](https://github.com/gieoon/MakeMyWebsite/blob/master/PageSource.png "Page Source")
+![Page Source](https://gieoon.github.io/LetsMakeAWebsite/PageSource.png "Page Source")
 
 Below is the skeleton of a basic HTML page.
 ```
@@ -81,7 +80,7 @@ For example, here's a button with no CSS styling
 ```
 <button>Click Me</button>
 ```
-![Click Me](https://github.com/gieoon/MakeMyWebsite/blob/master/ClickMe.png "Click Me")
+![Click Me](https://gieoon.github.io/LetsMakeAWebsite/ClickMe.png "Click Me")
 
 
 Here's the same button with CSS styling
@@ -97,7 +96,7 @@ Here's the same button with CSS styling
 </style>
 <button>Click Me</button>
 ```
-![Click Me (With CSS)](https://github.com/gieoon/MakeMyWebsite/blob/master/ClickMeCSS.png "Click Me (With CSS)")
+![Click Me (With CSS)](https://gieoon.github.io/LetsMakeAWebsite/ClickMeCSS.png "Click Me (With CSS)")
 
 CSS is also used to align items in the page after they have been written out by HTML.
 
