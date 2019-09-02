@@ -1,6 +1,6 @@
-# Make Your First Website (Absolute Beginners)
+# Let's Make A Website (For Absolute Beginners)
 
-## Who am I
+## About Me
 
 My name is Jun Kagaya, I work in Payroll, and I used to be a tour guide and have walked the esteemed Milford Track 26 times, here's my [CV](https://gieoon.github.io/CV/)
 
