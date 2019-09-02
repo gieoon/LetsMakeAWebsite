@@ -8,6 +8,7 @@ I've also taken on the challenge of spreading knowledge about IT by creating an 
 
 We're going to create a website that looks like this
 ![Final Website](https://github.com/gieoon/MakeMyWebsite/blob/master/FinalWebsite.png "Final Website")
+![Final Website](https://gieoon.github.io/LetsMakeAWebsite/FinalWebsite.png "Final Website")
 
 In making this site, we're going to cover the basics of web development and get you the skills needed to make a basic webpage.
 
