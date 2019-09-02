@@ -96,7 +96,7 @@ Here's the same button with CSS styling
 </style>
 <button>Click Me</button>
 ```
-![Click Me (With CSS)]https://github.com/gieoon/MakeMyWebsite/blob/master/ClickMeCSS.png "Click Me (With CSS)")
+![Click Me (With CSS)](https://github.com/gieoon/MakeMyWebsite/blob/master/ClickMeCSS.png "Click Me (With CSS)")
 
 CSS is also used to align items in the page after they have been written out by HTML.
 
